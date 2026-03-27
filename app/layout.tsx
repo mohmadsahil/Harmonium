@@ -11,7 +11,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://virtual-harmonium.vercel.app"),
+  metadataBase: new URL("https://web-harmoniums.netlify.app/"),
   title: {
     default: "Virtual Harmonium Player | Play Harmonium Online Free",
     template: "%s | Virtual Harmonium Player",
